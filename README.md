@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johernandezvaz&label=Profile%20views&color=0e75b6&style=flat" alt="johernandezvaz" /> </p>
 
-- 🌱 Estoy aprendiendo **Flask, Django, Python y Pytorch**
+- 🌱 Estoy aprendiendo **Reflex, Flask, Django, Python y Pytorch**
 
 - 👨‍💻 Mis proyectos relacionados a Python y Pytorch [https://www.kaggle.com/thisivazqz/code](https://www.kaggle.com/thisivazqz/code)
 
