@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo **Reflex, Flask, Django, Python y Pytorch**
 
-- 👨‍💻 Mis proyectos relacionados a Python y Pytorch [https://www.kaggle.com/thisivazqz/code](https://www.kaggle.com/thisivazqz/code)
+- 👨‍💻 Mis proyectos relacionados a Python y Pytorch [https://www.kaggle.com/maikua/code](https://www.kaggle.com/maikua/code)
 
 - 💬 Platicame sobre **Tecnología, avances y nuevas implementaciones**
 
