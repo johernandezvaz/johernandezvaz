@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## 🚀 Founder of [Boleto+](https://www.producthunt.com/products/boleto)
+## 🚀 Founder of [Boleto+](https://boleto.plus/?ref=producthunt)
 I'm building **Boleto+**, a modern ticketing platform that fights fraud and gives event organizers full control. The current ticket industry is plagued by:
 - 🎭 **Scalping and fraud**: Fake tickets and price manipulation hurt both organizers and attendees
 - 💸 **Hidden fees**: Opaque pricing and excessive commissions (up to 15%)
