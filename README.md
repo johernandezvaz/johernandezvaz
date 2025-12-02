@@ -1,21 +1,5 @@
 # 💫 About Me:
 
-## 🚀 Founder of [Boleto+](https://boleto.plus/?ref=producthunt)
-I'm building **Boleto+**, a modern ticketing platform that fights fraud and gives event organizers full control. The current ticket industry is plagued by:
-- 🎭 **Scalping and fraud**: Fake tickets and price manipulation hurt both organizers and attendees
-- 💸 **Hidden fees**: Opaque pricing and excessive commissions (up to 15%)
-- 🔒 **Lack of transparency**: Organizers don't know who's really attending their events
-
-**Boleto+** solves these problems with:
-- ✨ **Only 4% commission**: Transparent, fair pricing
-- 🔐 **Anti-fraud system**: Secure ticket validation and real-time check-in
-- 📊 **Complete transparency**: Know exactly who attends your events
-- 🎨 **Beautiful, modern interface**: Built with React and cutting-edge tech
-
-**[Support us on Product Hunt!](https://www.producthunt.com/products/boleto)** 🙌
-
----
-
 🌱 Currently exploring: **Blockchain, Rust, Python, React, Next.js**<br>
 👨‍💻 My projects: https://www.kaggle.com/maikua/code<br>
 💬 Let's talk about: Technology, innovations, blockchain, and new implementations / Hablemos de tecnología, innovaciones, blockchain y nuevas implementaciones<br>
@@ -23,7 +7,7 @@ I'm building **Boleto+**, a modern ticketing platform that fights fraud and give
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thisisvazqz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johernandezvaz@gmail.com) [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/boleto) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thisisvazqz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johernandezvaz@gmail.com) 
 
 # 💻 Tech Stack:
 
